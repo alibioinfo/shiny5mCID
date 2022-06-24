@@ -12,3 +12,5 @@ RoxygenNote: 7.2.0
 Imports: 
     shiny,
     shinydashboard
+URL: https://github.com/alibioinfo/shiny5mCID
+BugReports: https://github.com/alibioinfo/shiny5mCID/issues
